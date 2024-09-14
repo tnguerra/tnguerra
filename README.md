@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnguerra
-- 👀 I’m interested in python at the moment
-- 🌱 I’m currently learning python
+- 👀 I’m currently leanring C and Scala
+- 🌱 I’m currently program in Java, and Python
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me thomas_guerra98@hotmail.com
 
